@@ -1,5 +1,5 @@
 # instagram-data-retrieval
-A test in publicly obtainable data retrieval from the Facebook Graph API for Instagram. Fork and extension of @jstolpe/blog_code repo
+A test in publicly obtainable data retrieval from the Facebook Graph API for Instagram. Fork and extension of **@jstolpe/blog_code repo**
 Additionally tests the use of https://pypi.org/project/igramscraper/
 
 NOTE: Code is provided as is. I do not personally condone the use of scraping software; hitting API rate limits will result in the connected 
